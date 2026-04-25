@@ -1,31 +1,31 @@
-# anime data analysis
+# Anime Recommendation & Search Web App
 
 ## 📌 Overview
-This project focuses on analyzing anime datasets to identify trends in genres, ratings, and viewer preferences.
+This project is a web-based application that allows users to explore top anime, search for specific anime, and view detailed information including posters and trailers.
 
 ## 🎯 Objective
-To explore and understand patterns in anime data using exploratory data analysis techniques.
+To build an interactive anime browsing platform that enhances user experience through search functionality and visual content.
 
 ## 🛠️ Technologies Used
 - Python
+- Streamlit 
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-
-## 📊 Key Analysis Performed
-- Data cleaning and preprocessing
-- Genre distribution analysis
-- Rating and popularity analysis
-- Trend identification
 
 ## 🚀 Features
-- Visualizations of anime ratings and genres
-- Insights into viewer preferences
-- Identification of popular anime categories
+- 🔍 Search bar to find specific anime
+- ⭐ Displays top anime recommendations
+- 🖼️ Shows anime posters
+- 🎬 Displays YouTube trailers
+- 📊 Uses dataset for retrieving anime details
+
+## 📊 How It Works
+- Loads anime dataset
+- Filters based on user input
+- Displays relevant anime information dynamically
 
 ## 📈 Outcome
-The project provided meaningful insights into anime trends and audience behavior using data analysis techniques.
+Developed an interactive and user-friendly anime application that combines data analysis with a web interface to improve content discovery.
 
 ## 📁 Dataset
-Anime dataset containing information such as title, genre, rating, and popularity.
+Anime dataset containing titles, genres, ratings, and other relevant details.
