@@ -23,6 +23,16 @@ To build an interactive anime browsing platform that enhances user experience th
 - Loads anime dataset
 - Filters based on user input
 - Displays relevant anime information dynamically
+  ## 📸 Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Search Functionality
+![Search](search.png)
+
+### Anime Details
+![Details](details.png)
 
 ## 📈 Outcome
 Developed an interactive and user-friendly anime application that combines data analysis with a web interface to improve content discovery.
